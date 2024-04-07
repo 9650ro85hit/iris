@@ -1,0 +1,11 @@
+.container{
+    height: 300px;
+     width: 400px;
+      background-color: aquamarine;
+      margin-top: 30vh;
+      
+}
+
+body{
+    background-color: rgb(21, 34, 37);
+}
